@@ -1,0 +1,184 @@
+@charset "utf-8";
+.navbar.navbar-default .container-fluid #topFixedNavbar1 {
+	background-color: #454242;
+}
+.container-fluid .navbar-header .navbar-brand {
+	color: #FFFFFF;
+}
+.container-fluid .navbar.navbar-default .container-fluid {
+	background-color: #454242;
+	visibility: visible;
+}
+.nav.navbar-nav.navbar-right li a {
+	color: #ABA3A3;
+}
+
+.navbar.navbar-default .container-fluid .jumbotron {
+	color: #000000;
+}
+#car1 {
+	width: 100%;
+}
+
+
+.jumbotron p .btn.btn-primary.btn-lg {
+	color: #313030;
+	background-color: #FF9600;
+	border-width: 0px;
+	border-color: #FFFFFF #FFFFFF #000000;
+	text-align: center;
+	text-indent: 0px;
+	border-bottom-style: ridge;
+}
+ .container-fluid {
+	border: thick solid #454242;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.col-md-4 .thumbnail .img-thumbnail {
+
+
+
+
+
+
+}
+.col-md-4.col-sm-12 .thumbnail img {
+	float: right;
+}
+.col-md-4 .thumbnail img {
+}
+#form1 p #button {
+	width: 160px;
+}
+
+
+.container-fluid .row .col-sm-3 {
+	height: auto;
+}
+.form {
+	width: 40%;
+	margin-right: auto;
+	margin-left: 500px;
+
+}
+.btn-Large {
+	margin-left: 0px;
+}
+.row .col-sm-6 .btn.btn-lg.btn-default {
+	width: 40%;
+	background-color: #FF9600;
+	margin-left: 30%;
+	margin-right: auto;
+	padding-right: auto;
+	padding-left: auto;
+	font-size: 100%;
+	text-align: center;
+}
+
+.col-sm-6 article p {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+}
+.container-fluid #search {
+	width: 1000px;
+	border: thin solid #CFCFCF;
+	background-color: #F8F8F8;
+	left: auto;
+	float: none;
+	margin-left: 60px;
+	margin-right: auto;
+	height: 40px;
+	color: #B5B5B5;
+}
+.container-fluid #button2 {
+	margin-left: 500px;
+	margin-right: auto;
+	width: 160px;
+}
+#form1 .text-left #textfield {
+	color: #B5B5B5;
+}
+#form1 .text-left #textfield2 {
+	color: #B5B5B5;
+}
+
+
+#p2 {
+}
+.col-sm-6 article #p2 {
+}
+
+
+#p2 {
+	text-align: center;
+}
+.container-fluid p .btn.btn-default {
+	height: 39px;
+	width: 100px;
+	background-color: #454242;
+	color: #FFFFFF;
+	text-align: center;
+}
+.media-list div .backtotop {
+	text-align: center;
+	margin-left: 46%;
+}
+
+.input-group .input-group-btn .btn.btn-default {
+	background-color: #454242;
+	color: #FFFFFF;
+}
+.backtotop {
+}
+.signin {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	position: relative;
+}
+.createaccount {
+	text-align: center;
+	text-shadow: 0px 0px;
+}
+.signin2 {
+	width: auto;
+	background-color: #B5B5B5;
+	color: #FFFFFF;
+	text-shadow: 0px 0px #000000;
+
+}
+.createaccount2 {
+	background-color: #FF9600;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-shadow: 0px 0px #000000;
+}
+.well1 {
+	background-color: #454242;
+}
+.breadcrumb1 {
+	background-color: #454242;
+}
+.backtotop2 {
+	text-align: center;
+	margin-left: 46%;
+}
+.backtotop3 {
+	margin-left: 46%;
+}
+.breadcrumb2 {
+	background-color: #454242;
+}
+.breadcrumb3 {
+	background-color: #454242;
+}
+.breadcrumb4 {
+	background-color: #454242;
+}
